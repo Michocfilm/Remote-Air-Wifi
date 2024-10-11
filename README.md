@@ -3,4 +3,5 @@ Can control to turn on/off the air conditioner or increase/decrease the temperat
 
 <p align="center">
   <img src="RemoteAir.png" width="50%">
+  <img src="ตัวอย่าง.png" width="50%">
 </p><br>
